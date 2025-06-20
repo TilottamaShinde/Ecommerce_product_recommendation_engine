@@ -13,8 +13,11 @@ This project recommends products to users based on their purchase history using 
 
 1. Clone the repo:
 
+
 bash
+
 git clone https://github.com/yourusername/ecommerce_recommendation.git
+
 cd ecommerce_recommendation
 
 
