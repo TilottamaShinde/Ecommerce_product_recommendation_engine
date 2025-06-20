@@ -40,3 +40,6 @@ Add hybrid/content-based filtering
 Use real-world datasets
 
 Add authentication and UI
+
+### Author
+Tilottama Shinde
